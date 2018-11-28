@@ -1,0 +1,4 @@
+#Wed Oct 31 22:20:29 EDT 2018
+base.0=/Users/joshrubin/Desktop/GitHub/AndroidGithub/android_327/Densmore_Dash/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
